@@ -13,14 +13,6 @@ namespace Dominio
         public string Nombre { set; get; }
         public string Direccion { set; get; }
 
-        public Empresa Empresa1
-        {
-            get => default(Empresa);
-            set
-            {
-            }
-        }
-
         // TODO: completar con los datos necesarios.
     }
 }
