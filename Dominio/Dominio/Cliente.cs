@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Dominio
 {
-    public class Class1
+    public class Cliente
     {
+        public int? ID { set; get; } // Puede ser null
+
+        // TODO: completar con los datos necesarios.
     }
 }
